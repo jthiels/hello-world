@@ -1,2 +1,2 @@
 # hello-world
-A practice repo
+This is a practice repo...nothing to see here, really.
